@@ -2,7 +2,10 @@ package enumeraciones;
 
 public enum Paises {
 	
-	ESPANA(0034);
+	EEUU(001),
+	CANADA(001),
+	ESPANA(0034),
+	MEXICO(0052);
 	//TODO: resto de prefijos por meter.
 	
 	public int prefijo;
